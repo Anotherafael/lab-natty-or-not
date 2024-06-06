@@ -4,5 +4,5 @@
 
 | Projeto | Descriçao | Repositório |
 | --- | --- | --- |
-| Ebook | Ebook gerado por IA sobre os primeiros passos com a biblioteca pandas |  |
-| Podcast | Podcast gerado por IA sobre assuntos de ciência de dados e machine learning |  |
+| Ebook | Ebook gerado por IA sobre os primeiros passos com a biblioteca pandas | [Link](https://github.com/Anotherafael/lab-natty-or-not/blob/main/exemplos/ebook/E-BOOK.md) |
+| Podcast | Podcast gerado por IA sobre assuntos de ciência de dados e machine learning | [Link](https://github.com/Anotherafael/lab-natty-or-not/blob/main/exemplos/podcast/PODCAST.md)  |

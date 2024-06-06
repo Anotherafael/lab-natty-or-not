@@ -1,5 +1,7 @@
 # Pandas: Explorando o Poder dos Dados 🌌
 
+[Leia o Ebook](https://github.com/Anotherafael/lab-natty-or-not/blob/main/exemplos/ebook/ebook-pandas.pdf)
+
 ## 📒 Descrição
 Este e-book de 18 páginas é um guia épico para quem deseja dar os primeiros passos com a poderosa biblioteca Pandas. Vamos juntos explorar as galáxias dos dados e descobrir como manipulá-los com maestria!
 

@@ -1,5 +1,7 @@
 # Podcast: Big Bang Machine 🎙️
 
+[Ouça o podcast](https://github.com/Anotherafael/lab-natty-or-not/blob/main/exemplos/podcast/recording.MP3)
+
 ## 📒 Descrição
 Podcast de 2 minutos, onde embarca-se em uma jornada rápida, porém profunda, pelo fascinante mundo da ciência de dados e do machine learning. Se você é fã de tecnologia e quer entender mais sobre o universo das IAs generativas, você está no lugar certo!
 
